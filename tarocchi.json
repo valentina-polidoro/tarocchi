@@ -3,7 +3,7 @@
   "name": "Tarot Cards",
   "children": [
     {
-      "name": "Major Arcana",
+      "name": "Arcani maggiori",
       "children": [
         { "name": "The Fool" },
         { "name": "The Magician" },
@@ -30,10 +30,10 @@
       ]
     },
     {
-      "name": "Minor Arcana",
+      "name": "Arcani minori",
       "children": [
         {
-          "name": "Cups",
+          "name": "Coppe",
           "children": [
             { "name": "Ace of Cups" },
             { "name": "Two of Cups" },
@@ -52,7 +52,7 @@
           ]
         },
         {
-          "name": "Wands",
+          "name": "Bastoni",
           "children": [
             { "name": "Ace of Wands" },
             { "name": "Two of Wands" },
@@ -71,7 +71,7 @@
           ]
         },
         {
-          "name": "Swords",
+          "name": "Spade",
           "children": [
             { "name": "Ace of Swords" },
             { "name": "Two of Swords" },
@@ -90,7 +90,7 @@
           ]
         },
         {
-          "name": "Pentacles",
+          "name": "Denari",
           "children": [
             { "name": "Ace of Pentacles" },
             { "name": "Two of Pentacles" },
@@ -112,3 +112,4 @@
     }
   ]
 }
+
