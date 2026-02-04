@@ -35,80 +35,81 @@
         {
           "name": "Coppe",
           "children": [
-            { "name": "Asso di Coppe" },
-            { "name": "Due di Coppe" },
-            { "name": "Tre di Coppe" },
-            { "name": "Quattro di Coppe" },
-            { "name": "Cinque di Coppe" },
-            { "name": "Sei di Coppe" },
-            { "name": "Sette di Coppe" },
-            { "name": "Otto di Coppe" },
-            { "name": "Nove di Coppe" },
-            { "name": "Dieci di Coppe" },
-            { "name": "Fante di Coppe" },
-            { "name": "Cavaliere di Coppe" },
-            { "name": "Regina di Coppe" },
-            { "name": "Re di Coppe" }
+            { "name": "Asso" },
+            { "name": "Due" },
+            { "name": "Tre" },
+            { "name": "Quattro" },
+            { "name": "Cinque" },
+            { "name": "Sei" },
+            { "name": "Sette" },
+            { "name": "Otto" },
+            { "name": "Nove" },
+            { "name": "Dieci" },
+            { "name": "Fante" },
+            { "name": "Cavaliere" },
+            { "name": "Regina" },
+            { "name": "Re" }
           ]
         },
         {
           "name": "Bastoni",
           "children": [
-            { "name": "Asso di Bastoni" },
-            { "name": "Due di Bastoni" },
-            { "name": "Tre di Bastoni" },
-            { "name": "Quattro di Bastoni" },
-            { "name": "Cinque di Bastoni" },
-            { "name": "Sei di Bastoni" },
-            { "name": "Sette di Bastoni" },
-            { "name": "Otto di Bastoni" },
-            { "name": "Nove di Bastoni" },
-            { "name": "Dieci di Bastoni" },
-            { "name": "Fante di Bastoni" },
-            { "name": "Cavaliere di Bastoni" },
-            { "name": "Regina di Bastoni" },
-            { "name": "Re di Bastoni" }
+            { "name": "Asso" },
+            { "name": "Due" },
+            { "name": "Tre" },
+            { "name": "Quattro" },
+            { "name": "Cinque" },
+            { "name": "Sei" },
+            { "name": "Sette" },
+            { "name": "Otto" },
+            { "name": "Nove" },
+            { "name": "Dieci" },
+            { "name": "Fante" },
+            { "name": "Cavaliere" },
+            { "name": "Regina" },
+            { "name": "Re" }
           ]
         },
         {
           "name": "Spade",
           "children": [
-            { "name": "Asso di Spade" },
-            { "name": "Due di Spade" },
-            { "name": "Tre di Spade" },
-            { "name": "Quattro di Spade" },
-            { "name": "Cinque di Spade" },
-            { "name": "Sei di Spade" },
-            { "name": "Sette di Spade" },
-            { "name": "Otto di Spade" },
-            { "name": "Nove di Spade" },
-            { "name": "Dieci di Spade" },
-            { "name": "Fante di Spade" },
-            { "name": "Cavaliere di Spade" },
-            { "name": "Regina di Spade" },
-            { "name": "Re di Spade" }
+            { "name": "Asso" },
+            { "name": "Due" },
+            { "name": "Tre" },
+            { "name": "Quattro" },
+            { "name": "Cinque" },
+            { "name": "Sei" },
+            { "name": "Sette" },
+            { "name": "Otto" },
+            { "name": "Nove" },
+            { "name": "Dieci" },
+            { "name": "Fante" },
+            { "name": "Cavaliere" },
+            { "name": "Regina" },
+            { "name": "Re" }
           ]
         },
         {
           "name": "Denari",
           "children": [
-            { "name": "Asso di Denari" },
-            { "name": "Due di Denari" },
-            { "name": "Tre di Denari" },
-            { "name": "Quattro di Denari" },
-            { "name": "Cinque di Denari" },
-            { "name": "Sei di Denari" },
-            { "name": "Sette di Denari" },
-            { "name": "Otto di Denari" },
-            { "name": "Nove di Denari" },
-            { "name": "Dieci di Denari" },
-            { "name": "Fante di Denari" },
-            { "name": "Cavaliere di Denari" },
-            { "name": "Regina di Denari" },
-            { "name": "Re di Denari" }
+            { "name": "Asso" },
+            { "name": "Due" },
+            { "name": "Tre" },
+            { "name": "Quattro" },
+            { "name": "Cinque" },
+            { "name": "Sei" },
+            { "name": "Sette" },
+            { "name": "Otto" },
+            { "name": "Nove" },
+            { "name": "Dieci" },
+            { "name": "Fante" },
+            { "name": "Cavaliere" },
+            { "name": "Regina" },
+            { "name": "Re" }
           ]
         }
       ]
     }
   ]
 }
+
